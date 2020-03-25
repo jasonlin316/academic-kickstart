@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yi-Chien Lin
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include hardware accelerator, digital integrated circuit design and computer architecture.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Hardware Accelerator
+- Digital Integrated Circuit Design
+- Computer Architecture
 
 education:
   courses:
