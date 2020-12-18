@@ -23,10 +23,10 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Taipei"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2020-07-08"
   description = """  
-  * Develop a software to enhace touchpad performance by using webcam to assist. This idea has been filed and applied for a patent.
-  * Develop a secure data transfer system using internal network and NFC connection.
+  * Developed a software to enhace touchpad performance by using webcam to assist. This idea has been filed and applied for a patent.
+  * Developed a secure data transfer system using internal network and NFC connection.
   """
   [[experience]]
   title = "Undergraduate Student"
@@ -34,9 +34,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Taipei"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2020-06-30"
   description = """  
-  * Major in Electrical Engineering 
+  * Majored in Electrical Engineering 
   * Undergraduate Researcher in Data Processing System Lab
   * Undergraduate Researcher in Mirco System Research Lab
   """
