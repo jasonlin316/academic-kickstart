@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming ECE PhD Student 
+role: 1st year EE PhD Student 
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include hardware accelerator, digital integrated circuit design and computer architecture.
+bio: My research interests include hardware accelerator, heterogeneous computing and computer architecture.
 
 interests:
 - Hardware Accelerator
-- Digital Integrated Circuit Design
+- Heterogeneous Computing
 - Computer Architecture
 
 education:
   courses:
-  - course: PhD in Electrical and Computer Engineering
+  - course: PhD in Electrical Engineering
     institution: University of Southern California
-    year: 2020(Exp.)
+    year: 2020 - Present
   - course: BS in Electrical Engineering
     institution: National Taiwan University
     year: 2016 - 2020
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jasonlin316@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yichienl@usc.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
@@ -70,6 +70,14 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+
+# How to update:
+#hugo
+#cd public
+#git add .
+#git commit -m "Build website"
+#git push origin master
+#cd ..
 user_groups:
 - Researchers
 - Visitors
@@ -78,8 +86,7 @@ header:
   image: "header.png"
   caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
+Hi, I am a 1st year PhD student in FPGA/Parallel Computing Lab at University of Southern California, advised by [Dr. Prasanna](https://sites.usc.edu/prasanna/).
+I'm interested in hardware accelerators, heterogeneous computing and computer architecture. I have done projects in both FPGA and ASIC, details can be found in the project section of this page or on my GitHub.
 
-Yi-Chien is not a student of artificial intelligence at the Stanford AI Lab. His research interests does not include distributed robotics, mobile computing and programmable matter. He did not lead the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Hello how are you? I'm fine thank you.
-
+I finished my undergraduate study in National Taiwan University (NTU), majored in electrical engineering. I was also an Electrical Engineering Intern at Hewlett-Packard (HP) in Taipei.
