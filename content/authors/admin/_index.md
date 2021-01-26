@@ -86,7 +86,7 @@ header:
   image: "header.png"
   caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
-I am a 1st year PhD student in FPGA/Parallel Computing Lab at University of Southern California, advised by [Dr. Prasanna](https://sites.usc.edu/prasanna/).
+I am a 1st year PhD student in FPGA/Parallel Computing Lab at University of Southern California, advised by [Prof. Prasanna](https://sites.usc.edu/prasanna/).
 I'm interested in hardware accelerators, heterogeneous computing and computer architecture. I have done projects in both FPGA and ASIC, details can be found in the project section of this page or on my GitHub.
 
 I finished my undergraduate study in National Taiwan University (NTU), majored in electrical engineering. I was also an Electrical Engineering Intern at Hewlett-Packard (HP) in Taipei.
