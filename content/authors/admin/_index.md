@@ -54,7 +54,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv_2021.pdf
   #link: https://drive.google.com/file/d/1MXqv_zoTo9Aup_dKMYAYHKSjyaZ3uaAN/view?usp=sharing
 
 - icon: linkedin
